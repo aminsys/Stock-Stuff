@@ -1,6 +1,6 @@
-# stock-stuff
+# Stock Stuff
 
-This template should help get you started developing with Vue 3 in Vite.
+Yet another Vue.js app. This app displays prices for THREE stock symbols. This app is powered by StockData.org.
 
 ## Recommended IDE Setup
 
